@@ -1,0 +1,5 @@
+string = "This is first example of convert string lowercase to uppercase"
+print(string.upper())
+ 
+#Output
+#THIS IS FIRST EXAMPLE OF CONVERT STRING LOWERCASE TO UPPERCASE
