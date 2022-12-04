@@ -1,0 +1,12 @@
+Astr = "How do you do"
+char = 'o'
+print("Given String:
+", Astr)
+print("Given Character:
+",char)
+res = 0
+for i in range(len(Astr)):
+   if (Astr[i] == char):
+      res = res + 1
+print("Number of time character is present in string:
+",res)
