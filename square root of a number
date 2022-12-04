@@ -1,0 +1,7 @@
+import math
+
+num = float(input(" Please Enter any numeric Value : "))
+
+squareRoot = math.sqrt(num)
+
+print("The Result Of {0}  = {1}".format(num, squareRoot))
